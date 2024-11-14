@@ -2,7 +2,7 @@
 In questa repo sono caricate le carte in _ITALIANO_ da utilizzare su _**EDOPro**_.
 
 ### Link utili
-+ [Scarica il file user_config](https://mega.nz/file/R54UTIyB#Gk5bDzUC1oWcF_hw39ioUvBGs4M6pTduIg3IeMDvo_U)
++ [Scarica il file user_config](https://mega.nz/file/N1ZXGKAA#9PoETTW1IJ31xKz3zAYuXwDBryaCahcLN42su4X9Oxw)
 
 ### Istruzioni
 + Scarica il file *user_config.json* tramite il link MEGA.
